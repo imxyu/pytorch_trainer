@@ -102,22 +102,3 @@ class trainer(object):
         IoU_output = IoU_total / dataloader.dataset.__len__()
         self.model.train()
         return loss_output, IoU_output
-
-
-                
-
-
-
-
-
-
-
-            
-
-
-            
-
-
-
-    
-
