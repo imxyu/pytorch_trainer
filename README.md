@@ -1,5 +1,5 @@
 # pytorch_trainer
-a general trainer for class/segmentation task
+a general trainer for class/segmentation task.
 
 ### Usage
 <pre>
